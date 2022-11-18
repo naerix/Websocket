@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Remera",
+    "price": 3000,
+    "id": 1,
+    "thumbnail": "https://newsport.vteximg.com.br/arquivos/ids/14017559-455-588/VLL2151-A.jpg"
+  },
+  {
+    "name": "Pantalon",
+    "price": 5000,
+    "id": 2,
+    "thumbnail": "https://www.cheeky.com.ar/uploads/picture/image/124121/V2300101_40_1.jpg"
+  },
+  {
+    "name": "Jean",
+    "price": 5000,
+    "id": 3,
+    "thumbnail": "https://www.tradeinn.com/f/13713/137133676/jack---jones-vaqueros-glenn-original-am-814-slim.jpg"
+  },
+  {
+    "name": "Buzo",
+    "price": 5000,
+    "id": 4,
+    "thumbnail": "https://topperarg.vtexassets.com/arquivos/ids/257590-800-800?width=800&height=800&aspect=true"
+  },
+  {
+    "name": "Pañuelo rojo",
+    "price": 1300,
+    "id": 5,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_604426-MLA43655135531_102020-O.webp"
+  },
+  {
+    "name": "Bermuda",
+    "price": "2000",
+    "thumbnail": "https://www.panareha.com/772-large_default/bermuda-turtle-bh1801g02.jpg",
+    "id": 6
+  }
+]

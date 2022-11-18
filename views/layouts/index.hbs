@@ -1,0 +1,29 @@
+<html lang='es'>
+  <head>
+    {{>head}}
+  </head>
+  <body>
+    {{!-- {{>navbar}} --}}
+    <div class="title">
+      {{{title}}}
+    </div>
+    <br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <h1>Subir productos</h1>
+
+      {{> form}}
+      {{>chat}}
+    </div>
+    <div class="col-sm">
+      {{>products}}
+    </div>
+  </div>
+</div>
+
+    
+
+  </body>
+   {{> footer}}
+</html>
